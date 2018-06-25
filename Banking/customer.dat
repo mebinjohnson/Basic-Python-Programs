@@ -1,0 +1,58 @@
+(i__main__
+customer
+p0
+(dp1
+S'mobile'
+p2
+S'043577467'
+p3
+sS'address'
+p4
+S'Al Wasl Bulding 406, Al Karama, Dubai'
+p5
+sS'id'
+p6
+I123
+sS'name'
+p7
+S'Ashish Suraj Bhan'
+p8
+sb.(i__main__
+customer
+p0
+(dp1
+S'mobile'
+p2
+S'0559965163'
+p3
+sS'address'
+p4
+S'Bin Shabib Building 408, Al Warqaa 1, Dubai'
+p5
+sS'id'
+p6
+I134
+sS'name'
+p7
+S'Mebin Johnson'
+p8
+sb.(i__main__
+customer
+p0
+(dp1
+S'mobile'
+p2
+S'0509954866'
+p3
+sS'address'
+p4
+S'AL Quoz, Dubai'
+p5
+sS'id'
+p6
+I144
+sS'name'
+p7
+S'Jojo'
+p8
+sb.
